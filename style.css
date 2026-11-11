@@ -38,5 +38,5 @@ button {
 body.dark {
   /* งานเสริม: กำหนดสีของโหมดมืด */
   background-color: #222222;
-  color: white;
+  color: rgb(0, 0, 0);
 }
