@@ -5,7 +5,7 @@ body {
   font-family: sans-serif;
   margin: 24px;
   /* งาน 1: เปลี่ยนสีพื้นหลังและสีตัวอักษรของหน้าเว็บ */
-  background-color: rgb(0, 174, 255);
+  background-color: rgb(252, 252, 252);
   color: black;
 }
 
@@ -38,6 +38,6 @@ button {
 /* โหมดมืด: script.js จะเพิ่ม class "dark" ให้ body */
 body.dark {
   /* งานเสริม: กำหนดสีของโหมดมืด */
-  background-color: #0084ff;
+  background-color: #000000;
   color: rgb(0, 0, 0);
 }
